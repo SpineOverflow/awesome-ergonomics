@@ -11,11 +11,11 @@ For my personal implementation and real-world setup (keymaps, workflows, and con
 
 ## Keyboards
 
-- [Glove80](https://www.moergo.com/pages/glove80) — Wireless, split, concave ergonomic keyboard with 80 keys
-  - My personal configuration and layout: https://github.com/spineoverflow/spineoverflow-setup/tree/main/glove80
+- [glove80](https://www.moergo.com/pages/glove80) — Wireless, split, concave ergonomic keyboard with 80 keys
+  - [spineoverflow-setup-glove80](https://github.com/spineoverflow/spineoverflow-setup/tree/main/glove80) - My personal configuration and layout
 
 ---
 
 ## Software
 
-- [Stretchly](https://github.com/hovancik/stretchly) — App that reminds you to take breaks when working on your computer
+- [stretchly](https://github.com/hovancik/stretchly) — App that reminds you to take breaks when working on your computer
