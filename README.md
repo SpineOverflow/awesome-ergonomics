@@ -11,8 +11,12 @@ For my personal implementation and real-world setup (keymaps, workflows, and con
 
 ## Keyboards
 
-- [glove80](https://www.moergo.com/pages/glove80) — Wireless, split, concave ergonomic keyboard with 80 keys
-  - [spineoverflow-setup-glove80](https://github.com/spineoverflow/spineoverflow-setup/tree/main/glove80) - My personal configuration and layout
+- [glove80](https://www.moergo.com/pages/glove80) — Wireless, split, concave ergonomic keyboard with 80 keys.
+  - [spineoverflow-setup-glove80](https://github.com/spineoverflow/spineoverflow-setup/tree/main/glove80) - My personal configuration and layout.
+ 
+### Utils
+
+- [keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing.
 
 ---
 
