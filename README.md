@@ -4,6 +4,7 @@ Curated ergonomics resources for developers, remote workers, and desk-heavy prof
 This repository focuses on discovering and organizing ergonomic tools, research, and systems.
 
 For my personal implementation and real-world setup (keymaps, workflows, and configurations), see:
+
 👉 https://github.com/spineoverflow/spineoverflow-setup
 
 ---
